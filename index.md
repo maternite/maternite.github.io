@@ -12,4 +12,4 @@ espaces de nommage peuvent être séparés par : '::', ':', '.', '__'.
 
 Nous choisissons "::" comme séparateur.
 
-!(dot/namespaces.svg)[graph namespaces]
+![dot/namespaces.svg](graph namespaces)
