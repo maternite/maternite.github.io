@@ -1,6 +1,24 @@
 digraph Namespaces {
-    Maternity -> "Maternity::\nPediatrics"
-    Maternity -> "Maternity::\nGynecology"
-    Maternity -> "Maternity::\nAnesthesiology"
-    Maternity -> "Maternity::\nObstetrics"
+    Maternity -> Pediatrics
+    Maternity -> Gynecology
+    Maternity -> Anesthesiology
+    Maternity -> Obstetrics
+    Maternity -> Pmh
+    Pmh -> {Personal;Family}
+    Personal -> {Medical;Surgical;ObstetricsGynecology;Transfusion}
+    Obstetrics -> {Prenatal;Delivery;Postnatal;Ultrasound}
+    Prenatal [shape=hexagon];
+    Delivery [shape=hexagon];
+    Postnatal [shape=hexagon];
+    Ultrasound -> {Trimester1;Trimester23;Pelvic}
+    Trimester1 [shape=hexagon];
+    Trimester23 [shape=hexagon];
+    Pelvic [shape=hexagon];
+    Gynecology -> "Gynecology::Consultation"
+    "Gynecology::Consultation" [shape=hexagon,label=Consultation];
+    Pediatrics -> "Pediatrics::Consultation"
+    "Pediatrics::Consultation" [shape=hexagon,label=Consultation];
+    Anesthesiology -> "Anesthesiology::Consultation"
+    "Anesthesiology::Consultation" [shape=hexagon,label=Consultation];
+
 }
