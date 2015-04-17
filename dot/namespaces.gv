@@ -1,0 +1,6 @@
+digraph Namespaces {
+    Maternity -> "Maternity::\nPediatrics"
+    Maternity -> "Maternity::\nGynecology"
+    Maternity -> "Maternity::\nAnesthesiology"
+    Maternity -> "Maternity::\nObstetrics"
+}
