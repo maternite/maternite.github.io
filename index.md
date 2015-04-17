@@ -11,3 +11,5 @@ Il est préférable, pour éviter les conflits de nommage, d'utiliser des espace
 espaces de nommage peuvent être séparés par : '::', ':', '.', '__'.
 
 Nous choisissons "::" comme séparateur.
+
+!(dot/namespaces.svg)[graph namespaces]
