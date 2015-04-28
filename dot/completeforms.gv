@@ -1,0 +1,9 @@
+digraph Folders {
+    completeforms -> maternity
+    maternity -> {"central.xml";"drugs.xml";"identity.xml";"pmhcategories.xml";"print_identity_fr.html";"html"}
+    html -> xx
+    xx -> {"padtools_consultation_results_mask.html";"padtools_drugs_chronic_mask.html";
+        "padtools_textual_prescription_mask.html";"padtools_drugs_allergies_mask.html";
+        "padtools_prescription_drugs_mask.html"}
+
+}

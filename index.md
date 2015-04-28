@@ -18,15 +18,20 @@ Nous choisissons "::" comme séparateur.
 
 Les formulaires xml sont regroupés dans deux dossiers principaux:
 
-  *completeforms
-  *subforms
+* completeforms
+* subforms
 
 Chaque formulaire xml doit être placé dans un dossier spécifique:
-  * plus de clarté
-  * possibilité d'ajouter:
-    * fichier .ui (user interface)
-    * fichier .js
-    * 1 sous-dossir html contenant le masque d'exportation (xx/*.html) nécessaire
+
+* plus de clarté
+* possibilité d'ajouter:
+  * fichier .ui (user interface)
+  * fichier .js
+  * 1 sous-dossir html contenant le masque d'exportation (xx/*.html) nécessaire
     à l'impression
 
 Pour simplifier, la structure des dossiers suivra la structure des namespaces.
+
+![dot graph completeforms](dot/completeforms.png)
+
+![dot graph subforms](dot/subforms.png)

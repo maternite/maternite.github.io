@@ -1,0 +1,17 @@
+digraph Subforms {
+    subforms [shape=box];
+    maternity [shape=box];
+    generic [shape=box];
+
+    fullidentity_maternity [shape=box];
+    labtest_results [shape=box];
+    patientfilesynthesis [shape=box];
+    soap_with_biomeasurements [shape=box];
+    socio_demographics [shape=box];
+
+    subforms -> maternity -> generic
+
+    generic ->
+    {fullidentity_maternity;labtest_results;patientfilesynthesis;soap_with_biomeasurements;socio_demographics}
+
+}
