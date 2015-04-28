@@ -1,4 +1,10 @@
 digraph Folders {
+
+    completeforms [shape=box];
+    maternity [shape=box];
+    html [shape=box];
+    xx [shape=box];
+
     completeforms -> maternity
     maternity -> {"central.xml";"drugs.xml";"identity.xml";"pmhcategories.xml";"print_identity_fr.html";"html"}
     html -> xx
