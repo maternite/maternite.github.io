@@ -59,10 +59,13 @@ Preoperative Key Information.” Journal of Anesthesia & Clinical Research
   * anesthesia
     * complications associated with previous anesthetics
     * family history of adverse reactions to anesthesia
+  * Allergies (medication, latex)
 * Airway assessment evaluation / Evaluation des voies aériennes
   * Mallampati score / Score de Mallampati
   * State of dentition review / Etat dentaire
-  * Pertinent findings / Constations pertinentes
+    * intraoral prosthese / prothèse dentaire (none/aucune, fixed/fixe, removable/amovible [denture, orthodontic appliances] )
+  * History of difficult airway / Antécédent d'intubation difficile
+  * Pertinent findings / Constatations pertinentes
 * Objective, vital signs
   * weight / Poids
   * height / Taille
