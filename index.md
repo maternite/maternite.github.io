@@ -79,9 +79,9 @@ Preoperative Key Information.” Journal of Anesthesia & Clinical Research
 #### Assessment
 * we need to separate fetal data from maternal data
 * multiple pregnancies should be taken into account
-* we should user SOAP note model [1] to regroup items
+* we should user SOAP note model [3] to regroup items
 
-[1]: https://en.wikipedia.org/wiki/SOAP_note
+[3]: https://en.wikipedia.org/wiki/SOAP_note
 
 #### Items
 * Term calculation / Calcul du terme
