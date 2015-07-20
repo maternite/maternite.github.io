@@ -74,4 +74,4 @@ Preoperative Key Information.” Journal of Anesthesia & Clinical Research
   * Oxygen saturation Sp02 / Saturation en oxygène Sp02
   * Blood pressure / Pression artérielle
 
-### [Prenatal care / consultation prénatale](prenatal.html)
+### [Prenatal care / consultation prénatale](/prenatal.html)
