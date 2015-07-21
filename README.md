@@ -20,7 +20,7 @@ Site regroupant les éléments pour guider l'informatisation du dossier médical
 
   * cloner le dépôt
 
-  * éditer les fichiers Markdown \*.md (Le langage de markup Markdown est le plus simple qui existe à ce jour, voir
+  * éditer les fichiers Markdown \*.md (Le langage de markup Markdown est le plus simple qui existe à ce jour, voir l'article [Wikipedia Markdown](https://fr.wikipedia.org/wiki/Markdown) et la [traduction française de la syntaxe](https://michelf.ca/projets/php-markdown/syntaxe/)
 
   * convertir les fichiers Markdown en fichiers HTML5 \*.html avec le logiciel pandoc:
 
