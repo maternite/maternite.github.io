@@ -12,6 +12,10 @@ digraph Subforms {
     anesthesiology [shape=box];
     gynecology [shape=box];
     obstetrics [shape=box];
+        prenatal [shape=box];
+        delivery [shape=box];
+        postnatal [shape=box];
+        ultrasound [shape=box];
     pediatrics [shape=box];
         pediatrics_soap_with_biomeasurements [shape=box];
 
@@ -21,4 +25,6 @@ digraph Subforms {
     {fullidentity_maternity;labtest_results;patientfilesynthesis;soap_with_biomeasurements;socio_demographics;lab_assistant}
     
     pediatrics -> pediatrics_soap_with_biomeasurements
+
+    obstetrics -> {prenatal;delivery;postnatal;ultrasound} 
 }

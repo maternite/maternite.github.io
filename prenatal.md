@@ -46,15 +46,15 @@
                                                                                 
 ### objective fetus / objectif fœtus                                            
                                                                                 
-* prenatal heartbeat / bruit du cœur fœtal                                  
+  * prenatal heartbeat / bruit du cœur fœtal                                  
                                                                                 
-* presentation / présentation                                               
+  * presentation / présentation                                               
                                                                                 
-  * cephalic presentation / présentation céphalique                      
+    * cephalic presentation / présentation céphalique                      
                                                                                 
-  * breech presentation / présentation podalique                         
+    * breech presentation / présentation podalique                         
                                                                                 
-  * shoulder presentation / présentation transverse
+    * shoulder presentation / présentation transverse
 
 ### Assessment                                                                  
                                                                                 
