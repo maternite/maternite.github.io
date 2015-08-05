@@ -54,9 +54,9 @@
                                                                                 
     * breech presentation / présentation podalique ou présentation du siège
 
-       1. frank breech / siège décomplété
-       2. complete breech / siège complet
-       3. incomplete breach / siège incomplet
+        * frank breech / siège décomplété
+        * complete breech / siège complet
+        * incomplete breach / siège incomplet
      
     * shoulder presentation / présentation transverse ou présentation de l'épaule
 (Transverse: avant la rupture des membranes, épaule: après la rupture des membranes)
