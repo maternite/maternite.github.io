@@ -42,7 +42,28 @@
                                                                                 
 * varicose veins / varices                                                  
                                                                                 
-* cervix / col                                                              
+* cervix / col
+    * position / position
+    * consistency / consistence
+    * effacement / effacement
+    * dilation /dilatation
+    * fetal station / positionnement ou descente
+    * internal cervical dilation / dilatation de l'orifice interne
+    * external cervical dilation / dilatation de l'orifice externe
+    * vaginal examination / toucher vaginal
+    * amniotic sac status / état de la poche des eaux
+
+* pelvis / bassin
+    * narrow pelvis  / bassin rétréci
+    * funnel pelvis / bassin en entonnoir
+    * asymetrical pelvis / bassin asymétrique
+    * borderline pelvis  / bassin limite
+    * normal pelvis / bassin normal                                                        
+
+* (Distention of) Lower uterine segment / (Ampliation du) Segment inférieur
+    * distended / amplié
+    * not distended / non amplié
+
                                                                                 
 ### objective fetus / objectif fœtus                                            
                                                                                 
