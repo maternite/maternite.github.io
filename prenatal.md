@@ -16,7 +16,8 @@
 * date of conception / date de conception                                   
                                                                                 
 * term / terme                                                              
-                                                                                
+
+* expected date of delivery / date d'accouchement à terme                                                                            
                                                                                 
 ### subjective / subjectif                                                      
                                                                                 
