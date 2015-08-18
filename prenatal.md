@@ -57,7 +57,7 @@
 * pelvis / bassin
     * narrow pelvis  / bassin rétréci
     * funnel pelvis / bassin en entonnoir
-    * asymetrical pelvis / bassin asymétrique
+    * asymmetrical pelvis / bassin asymétrique
     * borderline pelvis  / bassin limite
     * normal pelvis / bassin normal                                                        
 
@@ -78,7 +78,7 @@
 
         * frank breech / siège décomplété
         * complete breech / siège complet
-        * incomplete breach / siège incomplet
+        * incomplete breech / siège incomplet
      
     * shoulder presentation / présentation transverse ou présentation de l'épaule
 (Transverse: avant la rupture des membranes, épaule: après la rupture des membranes)
