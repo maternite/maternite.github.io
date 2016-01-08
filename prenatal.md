@@ -133,5 +133,11 @@
 
 
 ### Assessment                                                                  
-                                                                                
+
+* diagnosis / diagnostic
+
+* problems / problèmes                                                                                
+
 ### Plan
+
+* plan / conduite à tenir
